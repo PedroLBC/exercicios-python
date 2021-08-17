@@ -1,4 +1,5 @@
 print('\033[1;36;40mDESAFIO 09 - AULA 07\033[m\n')
+## Exercício Python 9: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.
 tab = float(input('Coloque um valor que queira saber a tabuada dele: '))
 x1 = tab*1
 x2 = tab*2
