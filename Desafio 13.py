@@ -1,4 +1,5 @@
 print('\033[1;36;40mDESAFIO 13 - AULA 07\033[m\n')
+## Exercício Python 13: Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
 sal = float(input('Qual seu salário atual? '))
 sal10 = sal/10
 sal5 = sal10/2
