@@ -1,4 +1,6 @@
 print('\033[1;36;40mDESAFIO 05 E 06 - AULA 07\033[m')
+## Exercício Python 5: Faça um programa que leia um número Inteiro e mostre na tela o seu sucessor e seu antecessor.
+## Exercício Python 6: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
 n = float(input('Coloque um valor: '))
 a = n - 1
 s = n + 1
