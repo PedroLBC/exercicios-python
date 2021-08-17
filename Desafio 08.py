@@ -1,4 +1,5 @@
 print('\033[1;36;40mDESAFIO 08 - AULA 07\033[m\n')
+## Exercício Python 8: Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 metro = float(input('Coloque um valor em metros: '))
 km = metro/1000
 cent = metro*100
