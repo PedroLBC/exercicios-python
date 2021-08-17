@@ -1,4 +1,5 @@
 print('\033[1;36;40mDESAFIO 12 - AULA 07\033[m\n')
+## Exercício Python 12: Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 nopromo = float(input('Qual o valor do produto sem desconto? '))
 promo10 = nopromo/10
 promo5 = promo10/2
