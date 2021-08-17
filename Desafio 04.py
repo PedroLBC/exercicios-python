@@ -1,4 +1,6 @@
 print('DESAFIO 04 - AULA 06\n')
+## Exercício Python 4: Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+
 a = input('Digite algo: ')
 print('Refente a o que preencheu:')
 print('')
@@ -27,6 +29,3 @@ print('')
 print('É titlecased? ',a.istitle())
 print('')
 print('É um espaço(tecla)? ',a.isspace())
-print('')
-print('É {} gay? True'.format(a))
-input('\n')
