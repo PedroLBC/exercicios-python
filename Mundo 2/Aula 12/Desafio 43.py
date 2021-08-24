@@ -1,6 +1,8 @@
 print('\033[1;36;40mDESAFIO 43 - AULA 12\033[m')
 
-## Exercício Python 43: Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+## Exercício Python 43: Desenvolva uma lógica que leia o peso e a altura de uma pessoa, 
+# calcule seu Índice de Massa Corporal (IMC) e mostre seu status, de acordo com a tabela abaixo:
+
 # – IMC abaixo de 18,5: Abaixo do Peso
 # – Entre 18,5 e 25: Peso Ideal
 # – 25 até 30: Sobrepeso
