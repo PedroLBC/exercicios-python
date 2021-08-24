@@ -1,5 +1,5 @@
 print('\033[1;36;40mDESAFIO 56 - AULA 13\033[m')
-
+## Exercício Python 56: Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre: a média de idade do grupo, qual é o nome do homem mais velho e quantas mulheres têm menos de 20 anos.
 idadetotal = 0
 mulheres = 0
 maioridade = 0
