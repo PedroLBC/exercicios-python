@@ -1,5 +1,6 @@
 print('\033[1;36;40mDESAFIO 55 - AULA 13\033[m')
 ## Exercício Python 55: Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi o maior e o menor peso lidos.
+
 maior = 0
 menor = 0
 
