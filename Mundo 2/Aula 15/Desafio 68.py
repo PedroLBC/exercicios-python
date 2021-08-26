@@ -2,6 +2,9 @@ from random import randint
 from cores import clean, green, red, yellow
 from desafio import atividade 
 atividade(68, 15)
+## Exercício Python 68: Faça um programa que jogue par ou ímpar com o computador. 
+# O jogo só será interrompido quando o jogador perder, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
 contagem = 0
 
 while True:
